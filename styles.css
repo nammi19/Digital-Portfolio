@@ -1,0 +1,187 @@
+h6{
+   font-family: Georgia; 
+   text-align: right;
+   font-weight: bold; 
+   color:#aa1175;
+   font-size:15px;
+}
+
+.img{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%; 
+    margin-top: -65px;
+}
+
+.headerText{
+        font-family: Georgia; 
+        position: relative;
+        top: 105px; 
+        font-style: italic;
+        left: -100px; 
+        color:#1e14d1;
+        font-size: 15px; 
+        font-weight: bold;}
+
+.firstletter{
+    font-size: 38px; font-family: Georgia;
+    font-weight: bold; top: -70px;}
+
+.navborder{
+    border: solid 2px;
+}
+.mytable{
+    margin-bottom: 90px;
+    margin-top: 50px;
+
+}
+
+p{ font-family: Times New Roman;
+   text-align:;
+   font-size: 35px;
+}
+
+.banner{
+    background-image: url(http://www.pngmart.com/files/4/Science-PNG-Free-Download.png);
+}
+
+img{
+    width: 100%;
+}
+
+.demo-2 {
+    position:relative;
+    width:340px;
+    height:260px;
+    overflow:hidden;
+    float:left;
+    margin-right:20px;
+    background-color: pink;
+}
+.demo-2 p,.demo-2 h2 {
+    color:#fff;
+    padding:10px;
+    left:-20px;
+    top:20px;
+    position:relative;
+}
+.demo-2 p {
+    font-family:georgia;
+    font-size:16px;
+    line-height:18px;
+    margin:0
+}
+.demo-2 h2 {
+    font-size:20px;
+    line-height:24px;
+    margin:0;
+    font-family: georgia;
+}
+.effect img {
+    position:absolute;
+    left:0;
+    bottom:0;
+    cursor:pointer;
+    margin:-4px 0;
+    height: 200px;
+    width: 340px;
+    -webkit-transition:bottom .3s ease-in-out;
+    -moz-transition:bottom .3s ease-in-out;
+    -o-transition:bottom .3s ease-in-out;
+    transition:bottom .3s ease-in-out
+}
+.effect img.top:hover {
+    bottom:-96px;
+    padding-top:100px
+}
+h2.zero,p.zero {
+    margin:0;
+    padding:0
+}
+
+.view {
+    width: 500px;
+    height: 450px;
+    margin: 10px;
+    float: left;
+    border: 10px solid #fff;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 2px #e6e6e6;
+    cursor: default;
+    background: #fff url(../images/bgimg.jpg) no-repeat center center
+}
+.view .mask, .view .content {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0
+}
+.view img {
+    display: block;
+    position: center;
+}
+.view h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 20px 0 0 0
+}
+.view p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 14px;
+    position: relative;
+    color: #fff;
+    padding: 10px 20px 20px;
+    text-align: center
+}
+.view a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 7px 14px;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    box-shadow: 0 0 1px #000
+}
+.view a.info:hover {
+    box-shadow: 0 0 5px #000
+}
+ 
+
+ /*final project CSS*/
+
+
+h2 {font-size:18px;}
+
+h1{
+    text-align: center;
+    font-family: georgia;
+    color: purple;
+    font-size: 65px;
+    font-weight: bold;
+  }
+
+h3{
+    text-align: center;
+    font-family: cambria;
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+
+
+
+
+#000033
+#FFFFCC
